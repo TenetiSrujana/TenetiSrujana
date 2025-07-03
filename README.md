@@ -15,7 +15,7 @@
 - Brainstorming ideas that solve real-world problems  
 
 ## 🎯 Current Mission:
-To grow my skills in **AI**, **ML**, and **DL** while contributing to projects that foster productivity, creativity, and well-being.
+To grow my skills in **AI**, **ML**, and **DL** while contributing to projects that faster productivity, creativity, and well-being.
 
 ## ✨ Connect with me:
 - 📧 **Email:** [srujanateneti@gmail.com](mailto:srujanateneti@gmail.com)  
